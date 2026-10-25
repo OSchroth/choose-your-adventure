@@ -33,5 +33,6 @@ Not even from you.
 
 But in the distance, at the edge of the meadow, stands a small wooden chair.
 
-- 🪑 [Head to the Chair]()
-- 🌳 [Examine the Trees]()
+- 🪑 [Head to the Chair](./scene7AB.md)
+- 🌳 [Examine the Trees](./scene7AC.md)
+- 🤔 [Ponder the Voice](./scene7AD.md)
