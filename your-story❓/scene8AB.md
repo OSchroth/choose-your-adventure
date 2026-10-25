@@ -1,4 +1,4 @@
-# 🕶️ Scene 8: Shadow's Comfort?
+# 🕶️ Scene 9: Shadow's Comfort?
 
 You float in darkness.
 

@@ -1,4 +1,4 @@
-# 🕶️ Scene 8: Shadow's Depths
+# 🕶️ Scene 9: Shadow's Depths
 
 You reach your hand out. Stretching all around you, trying to touch something, anything.
 
@@ -10,4 +10,4 @@ You continue, carefully, waving your hands ahead of you.
 
 Then
 
-- 🤝 [Something Grasps your Hand](./scene8D.md)
+- 🤝 [Something Grasps your Hand](./scene9D.md)

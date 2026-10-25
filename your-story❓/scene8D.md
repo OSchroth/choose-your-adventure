@@ -1,4 +1,4 @@
-# 🤝 Scene 8: The Hand
+# 🤝 Scene 9: The Hand
 
 It's... It's another hand.
 
