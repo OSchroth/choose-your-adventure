@@ -18,9 +18,6 @@ All around, you hear nothing but your own footsteps and the leaves rustling in t
 You...
 
 - 🥾 [Continue Forward](./scene2A.md)
-
-- 🤔 [Stop](./scene2B.md)
-
 - ⬅️ [Turn Around](./scene2C.md)
 
 

@@ -11,5 +11,5 @@ The scene hasn't changed. It all looks the same. You continue on the path but it
 This same winding path!
 
 - 🥾 [Press Forward](./scene3AD.md)
-- 👟 [Run Ahead](./scene4A)
+- 👟 [Run Ahead](./scene4A.md)
 - ⬅️ [Turn Around](./scene2C.md)
